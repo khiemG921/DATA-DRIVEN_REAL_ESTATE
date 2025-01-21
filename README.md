@@ -77,7 +77,3 @@ docker pull postgres
 3. **Dự đoán giá:**
 - Xây dựng mô hình Deep Learning (TensorFlow) để dự đoán giá dựa trên diện tích, số phòng, địa chỉ.
 - Huấn luyện, đánh giá mô hình, so sánh kết quả dự đoán và giá trị thực tế.
-
-## **5. Kết Luận**
-
-Đồ án này không chỉ cung cấp một hệ thống thu thập dữ liệu tự động mà còn tạo cơ sở để phân tích dữ liệu bất động sản một cách khoa học và hiệu quả. Qua đó, dự án đã thể hiện khả năng ứng dụng Python và PostgreSQL trong việc giải quyết các vấn đề thực tiễn. 
