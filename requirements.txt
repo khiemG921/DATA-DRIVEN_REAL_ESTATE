@@ -1,0 +1,10 @@
+psycopg2-binary
+pandas
+selenium
+webdriver-manager
+matplotlib
+seaborn
+numpy
+scipy
+scikit-learn
+tensorflow
